@@ -12,8 +12,6 @@ class DevicesList {
 
             this.render();
         });
-
-        this.render();
     }
 
     render() {
